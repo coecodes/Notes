@@ -4,8 +4,6 @@
 
 Welcome!
 
-The beginning of a math journey. I hope we can study math step by step and make the improvements together.
-
+The beginning of a journey. I hope we can study math step by step and make the improvements together.
 
 > Rer Aspera Ad Astra.
-
