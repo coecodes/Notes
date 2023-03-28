@@ -38,10 +38,6 @@
 [CodeForces](https://codeforces.ml/)
 
 # 书单
-[Z-Library](https://zh.singlelogin.me/?logoutAll)
-C99 ガールズフォーム 绅士出版社中文
-[Library Genesis](https://libgen.unblockit.cam/)
-[ArnetMiner](https://www.aminer.cn/)
 [中国信息通信研究所](http://www.caict.ac.cn/)
 
 
