@@ -63,8 +63,6 @@ UNP
 [知网](https://www.cnki.net/)
 [Google 翻译](https://translate.google.cn/)
 
-洋琪 樱鹤 食研 葵田 多元户户 大润丰 正大 圣农
-
 # 游戏
 [MikuTap](https://aidn.jp/mikutap/)
 
